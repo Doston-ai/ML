@@ -1,1 +1,1 @@
-In this repozitory I will push my machine learning lessons
+In this repozitory I will push my classification projects and works
